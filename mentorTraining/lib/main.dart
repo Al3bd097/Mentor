@@ -29,6 +29,7 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         appBar: AppBar(
           title: Text("Mentor"),
+          backgroundColor: Color(0xff09051A),
         ),
         body: Column(
           children: [
@@ -121,10 +122,11 @@ class SearchBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.all(10),
       child: TextField(
         onChanged: updateSearchQuery,
         decoration: InputDecoration(
+          filled: true,
+          fillColor: Color(0xff4E32DD),
           labelText: 'Search',
           prefixIcon: Icon(Icons.search),
         ),

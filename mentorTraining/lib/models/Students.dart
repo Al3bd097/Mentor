@@ -13,32 +13,32 @@ class Students {
       required this.impression});
   static List<Students> student = [
     Students(
-        name: "Ahmed",
+        name: "Abdullah",
         mail: "al3bdf@gmail.com",
         image:
             "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fanonymous-profile&psig=AOvVaw2ez9oxzUaz0IR5r_dDubJn&ust=1686048244285000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjj9Kf5q_8CFQAAAAAdAAAAABAD",
-        snack: "kitkat",
+        snack: "KitKat",
         impression: "😊"),
     Students(
         name: "Khaled",
         mail: "Khaled@gmail.com",
         image:
             "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fanonymous-profile&psig=AOvVaw2ez9oxzUaz0IR5r_dDubJn&ust=1686048244285000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjj9Kf5q_8CFQAAAAAdAAAAABAD",
-        snack: "kitkat",
-        impression: "😊"),
+        snack: "Twix",
+        impression: "😑"),
     Students(
         name: "Omar",
         mail: "omar@gmail.com",
         image:
             "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fanonymous-profile&psig=AOvVaw2ez9oxzUaz0IR5r_dDubJn&ust=1686048244285000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjj9Kf5q_8CFQAAAAAdAAAAABAD",
-        snack: "kitkat",
-        impression: "😊"),
+        snack: "Bounty",
+        impression: "😇"),
     Students(
-        name: "Hussain",
+        name: "Hussain Alwazzan",
         mail: "Hussain@gmail.com",
         image:
             "https://www.google.com/url?ksa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fanonymous-profile&psig=AOvVaw2ez9oxzUaz0IR5r_dDubJn&ust=1686048244285000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjj9Kf5q_8CFQAAAAAdAAAAABAD",
-        snack: "kitkat",
-        impression: "😊"),
+        snack: "Mars",
+        impression: "😎"),
   ];
 }
